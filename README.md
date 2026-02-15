@@ -1,11 +1,11 @@
-# README.md - LuminaScript Compiler (Lexical Analyzer)
+# README.md - MyScript Compiler (Lexical Analyzer)
 
 ## 1. Project Information
-* **Language Name:** LuminaScript
+* **Language Name:** MyScript
 * **File Extension:** .lang
 * **Team Members:**
-    * Member 1 (Roll No: 22i-1234)
-    * Member 2 (Roll No: 22i-5678)
+    * Member 1 (Roll No: 23i-0530)
+    * Member 2 (Roll No: 23i-0790)
 * **Project Phase:** Phase 1 - Lexical Analysis
 
 ---
