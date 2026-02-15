@@ -1,6 +1,5 @@
-# 22i1234-22i5678-A Compiler Construction Project
+# 23i0530-23i0790-A Compiler Construction Project
 
-## Language Name: **LuminaScript**
 
 ### Keyword Meanings:
 - **start**: Entry point of the program.
